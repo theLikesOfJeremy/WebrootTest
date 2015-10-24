@@ -4,3 +4,4 @@ test
 This is even more content
 >>>>>>> 6649680ebaff466a0201cacf102a67d836ced8d6
 additions
+testFile2.txt
